@@ -1,11 +1,14 @@
 body{
     height: 100vh;
     background-color: aliceblue;
+    
 }
 h1{
     font-size: 30px;
+    color:blueviolet;
 }
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: aqua;
+    font-size: 10px;
 }
